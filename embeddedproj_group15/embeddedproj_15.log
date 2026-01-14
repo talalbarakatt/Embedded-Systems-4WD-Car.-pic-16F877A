@@ -1,0 +1,17 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\THINKPAD\Desktop\embeddedproj_group15\embeddedproj_15.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\THINKPAD\Desktop\embeddedproj_group15\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "embeddedproj_15.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	embeddedproj_15.c
+hint: 135	1163	Variable 't' has been declared, but not used	embeddedproj_15.c
+hint: 146	1163	Variable 't' has been declared, but not used	embeddedproj_15.c
+hint: 541	1163	Variable 'far' has been declared, but not used	embeddedproj_15.c
+diagnostics: 761	123	Compiled Successfully	embeddedproj_15.c
+hint: 691	1164	Variable 'dt' has been eliminated by optimizer	embeddedproj_15.c
+hint: 526	1164	Variable 'ldr' has been eliminated by optimizer	embeddedproj_15.c
+hint: 537	1164	Variable 'dF' has been eliminated by optimizer	embeddedproj_15.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 66 (19%)  Free RAM (bytes): 286 (81%)	Used RAM (bytes): 66 (19%)  Free RAM (bytes): 286 (81%)
+hint: 0	1144	Used ROM (program words): 1847 (23%)  Free ROM (program words): 6345 (77%)	Used ROM (program words): 1847 (23%)  Free ROM (program words): 6345 (77%)
+diagnostics: 0	125	Project Linked Successfully	embeddedproj_15.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'embeddedproj_15.mcppi' completed: 265 ms	 
+diagnostics: 0	103	Finished successfully: 14 Jan 2026, 23:49:34	embeddedproj_15.mcppi
